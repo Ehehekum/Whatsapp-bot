@@ -1,0 +1,8 @@
+{
+  "ownerNumber": ["62xxx@c.us"],
+  "botName": "NexRayBot",
+  "apiUrl": "https://api.nexray.web.id",
+  "pairingNumber": "",
+  "prefix": ".",
+  "maxFileSize": 100
+}
